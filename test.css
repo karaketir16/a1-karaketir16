@@ -16,7 +16,8 @@ margin: 5px 200px 5px 200px;
 }
 p.intro
 {
-margin: 1% 30% 1% 30%;
+width: 30%;
+margin: auto;
 color: darkslategray;
 }
 p.link
