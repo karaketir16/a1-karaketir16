@@ -2,7 +2,7 @@ body
 {
 background-color: lawngreen;
 font-family: "Times New Roman", Times, serif;
-font-size: 16px
+font-size: 1em;
 }
 h1
 {
@@ -12,16 +12,48 @@ h2
 {
 text-align: center;
 }
-p
+
+#wiai
 {
-margin: 5px 200px 5px 200px;
-}
-p.intro
-{
+position: absolute;
+left: 5%;
 width: 30%;
-margin: auto;
+height: 50em;
+background-color: white;
 color: darkslategray;
+
 }
+#images
+{
+position: absolute;
+left: 36%;
+right: 31%;
+}
+.images_index
+{
+max-width:100%;
+height:auto;
+}
+#img2
+{
+
+
+}
+#intro
+{
+position: absolute;
+width: 25%;
+height: 50em; 
+right: 5%;
+background-color: white;
+color: darkslategray;
+
+}
+figcaption
+{
+font-size: 0.8em;
+}
+
 p.link
 {
 text-align: center;
@@ -36,12 +68,6 @@ a
 background-color: orange;
 color: black;
 }
-.sug
-{
-position: absolute;
-bottom: 5px;
-right: 0;
-font-family: sans-serif;
-}
+
 
 
