@@ -1,8 +1,8 @@
 body
 {
-background-color: lawngreen;
+background-color: #4F924A;
 font-family: "Times New Roman", Times, serif;
-font-size: 1em;
+font-size: 1em%;
 }
 h1
 {
@@ -12,15 +12,28 @@ h2
 {
 text-align: center;
 }
-
+#right
+{
+position: absolute;
+right: 5%;
+width: 40%;
+height: 55em;
+}
+#left
+{
+position: absolute;
+left: 5%;
+width: 40%;
+height: 55em;
+}
 #wiai
 {
 position: absolute;
 left: 5%;
 width: 30%;
-height: 50em;
+height: 55em;
 background-color: white;
-color: darkslategray;
+color: black;
 
 }
 #images
@@ -43,10 +56,10 @@ height:auto;
 {
 position: absolute;
 width: 25%;
-height: 50em; 
+height: 55em; 
 right: 5%;
 background-color: white;
-color: darkslategray;
+color: black;
 
 }
 figcaption
@@ -68,6 +81,26 @@ a
 background-color: orange;
 color: black;
 }
-
-
+table, td
+{
+border: 2px solid black;
+text-align: left;
+}
+#first td
+{
+font-weight: bold;
+text-align: center;
+}
+.year
+{
+text-align: center;
+}
+table
+{
+width: 100%;
+}
+#testtest
+{
+font-family: monospace;
+}
 
