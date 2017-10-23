@@ -4,6 +4,13 @@ background-color: #4F924A;
 font-family: "Times New Roman", Times, serif;
 font-size: 1em;
 }
+#sing_logo
+{
+width: 20%;
+position: absolute;
+right: 5px;
+top: 5px; 
+}
 #for_logo
 {
 margin: 2px 37% 0px 43%;
