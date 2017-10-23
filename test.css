@@ -26,12 +26,22 @@ left: 5%;
 width: 40%;
 height: 55em;
 }
-#wiai
+#wiai /*what is artificial intelligence*/
 {
 position: absolute;
 left: 5%;
 width: 30%;
 height: 55em;
+background-color: white;
+color: black;
+
+}
+#intro
+{
+position: absolute;
+width: 25%;
+height: 55em; 
+right: 5%;
 background-color: white;
 color: black;
 
@@ -47,35 +57,17 @@ right: 31%;
 max-width:100%;
 height:auto;
 }
-#img2
-{
 
-
-}
-#intro
-{
-position: absolute;
-width: 25%;
-height: 55em; 
-right: 5%;
-background-color: white;
-color: black;
-
-}
 figcaption
 {
 font-size: 0.8em;
 }
-
+/*
 p.link
 {
 text-align: center;
 }
-blockquote
-{
-
-color: white;
-}
+*/
 a
 {
 background-color: orange;
@@ -99,8 +91,5 @@ table
 {
 width: 100%;
 }
-#testtest
-{
-font-family: monospace;
-}
+
 
